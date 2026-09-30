@@ -1,145 +1,126 @@
 <div align="center">
 
-# 👋 Hi, I'm Vaibhav Singh
+# Vaibhav Singh
 
-### AI Engineer · Agentic AI · RAG · Backend Engineering
+### AI Engineer | Agentic AI | RAG | Backend Engineering
 
-I build **production-oriented AI systems, intelligent agents, RAG pipelines, and backend services** that solve real-world problems.
+**Building AI systems that retrieve information, use tools, execute workflows, and solve real-world problems.**
 
-<p>
-  <a href="https://github.com/vsingh0809">
-    <img src="https://img.shields.io/github/followers/vsingh0809?label=Followers&style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/vsingh0809">
-    <img src="https://komarev.com/ghpvc/?username=vsingh0809&style=for-the-badge&color=blue" />
-  </a>
-  <a href="mailto:Vaibhav.gyn@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+<br/>
 
-<p>
-  <a href="https://www.linkedin.com/in/vaibhav-singh-560676241/">
-    <img src="https://img.shields.io/badge/LinkedIn-Vaibhav%20Singh-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/vsingh0809">
-    <img src="https://img.shields.io/badge/GitHub-vsingh0809-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
+<a href="https://github.com/vsingh0809">
+  <img src="https://img.shields.io/badge/GitHub-vsingh0809-181717?style=flat-square&logo=github" />
+</a>
+<a href="https://www.linkedin.com/in/vaibhav-singh-560676241/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" />
+</a>
+<a href="mailto:Vaibhav.gyn@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=vsingh0809&label=Profile%20Views&color=0e75b6&style=flat-square" />
 
 </div>
 
 ---
 
-## 🧠 About Me
+## About
 
-I'm an **AI Engineer focused on building practical AI systems**, with a strong backend engineering foundation.
+I'm an **AI Engineer focused on building practical, production-oriented AI applications**.
 
-My current focus is on:
+My work sits at the intersection of **LLMs, Agentic AI, RAG, backend engineering, and automation**. I enjoy taking an idea from an AI workflow or prototype and turning it into a usable system with APIs, databases, retrieval pipelines, evaluation, and deployment.
 
-* 🤖 **Agentic AI & LLM Applications**
-* 🔎 **RAG, Hybrid Search & Retrieval Systems**
-* 🧠 **LangChain, LangGraph & LlamaIndex**
-* ⚡ **FastAPI & Python Backend Engineering**
-* 🗄️ **Vector Databases — Qdrant & ChromaDB**
-* 🔐 **REST APIs, JWT, RBAC & secure backend systems**
-* 🐳 **Docker, CI/CD & production deployment**
-* ☁️ **Cloud & AI infrastructure**
-* 📊 **LLM evaluation, observability & production reliability**
+### Current focus
 
-I care less about building another chatbot and more about building **AI systems that can actually perform useful work.**
-
----
-
-## 🚀 What I'm Working On
-
-### AI Engineering
-
-Building systems around:
-
-```text
-LLMs
- ├── RAG
- │   ├── Hybrid Retrieval
- │   ├── BM25
- │   ├── Vector Search
- │   └── HyDE
- │
- ├── Agentic AI
- │   ├── Tool Calling
- │   ├── Agent Orchestration
- │   ├── Memory
- │   └── Multi-step Workflows
- │
- └── Production AI
-     ├── Evaluation
-     ├── Observability
-     ├── Guardrails
-     └── Deployment
-```
+* 🤖 Agentic AI and multi-step AI workflows
+* 🔎 RAG, Hybrid Search, BM25 and semantic retrieval
+* 🧠 LLM applications, tool calling and structured outputs
+* ⚡ FastAPI and Python backend systems
+* 🗄️ Vector databases and retrieval infrastructure
+* 📊 LLM evaluation and observability
+* 🐳 Docker and production deployment
+* ☁️ Cloud-based AI applications
 
 ---
 
-# ⭐ Featured Projects
+# Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏭 Manufacturing Risk Navigator
+## 🏭 Manufacturing Risk Navigator
 
-AI-powered system focused on helping users analyze manufacturing-related risks and retrieve relevant information using intelligent search and AI workflows.
+An AI-powered research and risk-analysis system designed to help users investigate manufacturing risks using intelligent retrieval and AI-assisted analysis.
 
-**Focus:** AI · RAG · Retrieval · Risk Analysis
+**Focus**
+
+`RAG` `LLMs` `Retrieval` `AI Research`
+
+<br/>
 
 <a href="https://github.com/vsingh0809/Manufacturing-Risk-Navigator">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github" />
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌐 Website Researcher
+## 🌐 Website Researcher
 
-An AI-powered research system designed to analyze websites and extract useful information through automated research workflows.
+An AI-powered research system that automates website analysis and information gathering through intelligent research workflows.
 
-**Focus:** AI Agents · Web Research · LLMs · Automation
+**Focus**
+
+`AI Agents` `Web Research` `LLMs` `Automation`
+
+<br/>
 
 <a href="https://github.com/vsingh0809/website_researcher">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github" />
 </a>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎫 AI Customer Support Ticket Automation
+## 🎫 AI Customer Support Automation
 
-An AI-driven customer-support automation project focused on intelligent ticket processing, classification and automated workflows.
+An AI-driven customer-support system designed to automate ticket understanding, classification, retrieval, and support workflows.
 
-🚧 **Currently under active development**
+**Status:** 🚧 Active Development
 
-**Focus:** Agentic AI · RAG · Automation · Support Systems
+**Focus**
+
+`Agentic AI` `RAG` `Automation` `Support Systems`
+
+<br/>
 
 <a href="https://github.com/vsingh0809/AI-Customer-Support-Ticket-Automation-System">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github" />
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏥 Electronic Health Record Automation
+## 🏥 Electronic Health Record Automation
 
-An AI/automation-oriented project exploring intelligent processing and automation around electronic health-record workflows.
+An AI and automation project focused on improving workflows around electronic health-record processing and information management.
 
-**Focus:** AI · Automation · Healthcare · Data Processing
+**Focus**
+
+`AI` `Automation` `Healthcare` `Data Processing`
+
+<br/>
 
 <a href="https://github.com/vsingh0809/Electronic-Health-Record-Automation">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github" />
 </a>
 
 </td>
@@ -148,78 +129,68 @@ An AI/automation-oriented project exploring intelligent processing and automatio
 
 ---
 
-# 🛠️ Tech Stack
+# Engineering Stack
 
-### 🤖 AI / GenAI
+### AI / LLM
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLM-412991?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Tool%20Calling-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/>
+<img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLM%20Applications-412991?style=flat-square"/>
+<img src="https://img.shields.io/badge/Tool%20Calling-6A5ACD?style=flat-square"/>
 </p>
 
-### ⚡ Backend Engineering
+### Backend
 
 <p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square"/>
 </p>
 
-### 🗄️ Databases & Retrieval
+### Data & Retrieval
 
 <p>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/Qdrant-D21A00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ChromaDB-5A29E4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Qdrant-D21A00?style=flat-square"/>
+<img src="https://img.shields.io/badge/ChromaDB-5A29E4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 </p>
 
-### ☁️ DevOps & Infrastructure
+### Infrastructure
 
 <p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-</p>
-
-### 💻 Languages
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=vsingh0809&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=vsingh0809&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsingh0809&layout=compact&langs_count=8&hide_border=true" />
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsingh0809&layout=compact&langs_count=8&hide_border=true" />
 
 </div>
 
-<br>
+<br/>
 
 <div align="center">
 
@@ -229,85 +200,83 @@ An AI/automation-oriented project exploring intelligent processing and automatio
 
 ---
 
-# 📈 Contribution Activity
+# Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vsingh0809&hide_border=true&area=true" width="100%"/>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=vsingh0809&hide_border=true&area=true"
+width="100%"
+/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
+# GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=vsingh0809&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
+<img
+src="https://github-profile-trophy.vercel.app/?username=vsingh0809&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"
+/>
 
 </div>
 
 ---
 
-# 📌 GitHub Overview
-
-<div align="center">
-
-|            Metric            |                                 Profile                                |
-| :--------------------------: | :--------------------------------------------------------------------: |
-|       👨‍💻 **GitHub**       |              [@vsingh0809](https://github.com/vsingh0809)              |
-|        📦 **Projects**       | [Explore repositories](https://github.com/vsingh0809?tab=repositories) |
-|          ⭐ **Stars**         |                     Dynamic GitHub statistics above                    |
-|  🔥 **Contribution Streak**  |                     Dynamic streak statistics above                    |
-| 📊 **Contribution Activity** |                      Dynamic activity graph above                      |
-|      🏆 **Achievements**     |                          GitHub trophies above                         |
-
-</div>
-
----
-
-# 🎯 Current Focus
+# What I'm Building Toward
 
 ```text
-AI Engineering
-     │
-     ├── Agentic AI
-     ├── RAG & Hybrid Search
-     ├── LLM Applications
-     ├── Tool Calling
-     ├── AI Evaluation
-     ├── Production APIs
-     └── Cloud & Deployment
+                    AI ENGINEERING
+                         │
+          ┌──────────────┼──────────────┐
+          │              │              │
+       AGENTS           RAG            LLMs
+          │              │              │
+    Tool Calling    Hybrid Search    Structured
+    Workflows       BM25             Outputs
+    Memory          Vector DB        Evaluation
+          │              │              │
+          └──────────────┼──────────────┘
+                         │
+                  PRODUCTION SYSTEMS
+                         │
+              ┌──────────┼──────────┐
+              │          │          │
+            APIs       Docker      Cloud
+              │          │          │
+              └──────────┼──────────┘
+                         │
+                    REAL USERS
 ```
 
-I'm particularly interested in the intersection of **AI + software engineering + real-world automation**.
+My goal is to build AI systems that go beyond chat interfaces — systems that can **retrieve information, reason over it, interact with tools, execute workflows, and integrate into real products.**
 
 ---
 
-# 🤝 Let's Connect
-
-If you're working on **AI agents, RAG systems, LLM applications, developer tools, or AI automation**, feel free to connect.
+# 📫 Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/vaibhav-singh-560676241/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Vaibhav%20Singh-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:Vaibhav.gyn@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-Vaibhav.gyn%40gmail.com-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://github.com/vsingh0809">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-vsingh0809-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-### ⚡ Build → Ship → Learn → Repeat
+**Build systems. Ship products. Keep learning.**
 
 </div>
