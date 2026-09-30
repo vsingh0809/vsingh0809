@@ -199,29 +199,7 @@ An AI and automation project focused on improving workflows around electronic he
 
 ---
 
-# 🔥 Contribution Streak
 
-<div align="center">
-
-<img
-src="https://streak-stats.demolab.com/?user=vsingh0809&theme=github-dark-blue&hide_border=true"
-width="70%"
-/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=vsingh0809&theme=github-dark&hide_border=true&area=true"
-width="100%"
-/>
-
-</div>
 
 ---
 
