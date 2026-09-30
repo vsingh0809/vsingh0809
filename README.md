@@ -177,40 +177,64 @@ An AI and automation project focused on improving workflows around electronic he
 </p>
 
 ---
-
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<a href="https://github.com/vsingh0809">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vsingh0809&theme=github_dark" width="100%" />
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=vsingh0809&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&cache_seconds=86400"
-/>
+<br/><br/>
 
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vsingh0809&theme=github_dark" width="48%" />
 
-<a href="https://github.com/vsingh0809">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vsingh0809&theme=github_dark" width="48%" />
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsingh0809&layout=compact&langs_count=8&hide_border=true&cache_seconds=86400"
-/>
+<br/><br/>
 
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vsingh0809&theme=github_dark" width="48%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vsingh0809&theme=github_dark&utcOffset=5.5" width="48%" />
 
 </div>
 
-<br/>
+---
+
+# 🔥 Contribution Streak
 
 <div align="center">
 
 <img
-src="https://streak-stats.demolab.com/?user=vsingh0809&hide_border=true"
+src="https://streak-stats.demolab.com/?user=vsingh0809&theme=github-dark-blue&hide_border=true"
+width="70%"
 />
 
 </div>
 
 ---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=vsingh0809&theme=github-dark&hide_border=true&area=true"
+width="100%"
+/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=vsingh0809&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"
+/>
+
+</div>
+
 
 
 
